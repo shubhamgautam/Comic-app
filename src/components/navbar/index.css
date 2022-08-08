@@ -1,0 +1,12 @@
+.nav-bar{
+    height: 100px;
+    background-color: red;
+}
+
+.nav-bar-container{
+    display: flex;
+    height: 100%;
+    margin: 0px 10%;
+    align-items: center;
+    justify-content: space-between;
+}

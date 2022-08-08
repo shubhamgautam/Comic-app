@@ -1,0 +1,15 @@
+.avatar-bar{
+    padding: 10px 10%;
+    background-color: rgb(23, 4, 4);
+    position: relative;
+    z-index:99;
+}
+
+.avatar-bar .bar-wrapper{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index:101;
+    background-color: black;
+    opacity: 0.6;
+}
